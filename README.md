@@ -1,1 +1,47 @@
-# pomodoro-reactjs
+# 🚀 Projeto React - Pomodoro
+
+- [x] Introdução
+- [x] Criação do projeto
+- [x] Styled Components
+- [x] Configurando temas
+- [x] Tipagem de temas
+- [ ] Estilos globais
+- [ ] Cores & fonte
+- [ ] Configurando ESLint
+- [ ] React Router DOM
+- [ ] Layout de rotas
+- [ ] Header & Layout
+- [ ] Página: Home
+- [ ] Finalização da Home
+- [ ] Aprimorando os inputs
+- [ ] Página: History
+- [ ] Componente: Status
+- [ ] Controlled vs Uncontrolled
+- [ ] React Hook Form
+- [ ] Validando formulários
+- [ ] TypeScript no formulário
+- [ ] Resetando formulário
+- [ ] Iniciando novo ciclo
+- [ ] Criando countdown
+- [ ] O hook useEffect
+- [ ] Reduzindo countdown
+- [ ] Mudando title da página
+- [ ] Interromper ciclo
+- [ ] Ciclo completo
+- [ ] Separando componentes
+- [ ] Prop Drilling no React
+- [ ] Entendendo contextos
+- [ ] Convertendo para contexto
+- [ ] Contexto no formulário
+- [ ] Contexto entre rotas
+- [ ] Reset do formulário
+- [ ] Listagem do histórico
+- [ ] Formatação de data
+- [ ] Criando reducer de ciclos
+- [ ] Salvando um objeto no Reducer
+- [ ] Marcando ciclo como finalizado
+- [ ] Separando Action Types
+- [ ] Separando Actions
+- [ ] Utilizando immer
+- [ ] Salvando estado no storage
+- [ ] Corrigindo listagem do histórico
