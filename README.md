@@ -5,10 +5,10 @@
 - [x] Styled Components
 - [x] Configurando temas
 - [x] Tipagem de temas
-- [ ] Estilos globais
-- [ ] Cores & fonte
-- [ ] Configurando ESLint
-- [ ] React Router DOM
+- [x] Estilos globais
+- [x] Cores & fonte
+- [x] Configurando ESLint
+- [x] React Router DOM
 - [ ] Layout de rotas
 - [ ] Header & Layout
 - [ ] Página: Home
