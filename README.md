@@ -10,7 +10,7 @@
 - [x] Configurando ESLint
 - [x] React Router DOM
 - [x] Layout de rotas
-- [ ] Header & Layout
+- [x] Header & Layout
 - [ ] Página: Home
 - [ ] Finalização da Home
 - [ ] Aprimorando os inputs
