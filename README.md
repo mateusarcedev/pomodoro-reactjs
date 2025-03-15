@@ -9,7 +9,7 @@
 - [x] Cores & fonte
 - [x] Configurando ESLint
 - [x] React Router DOM
-- [ ] Layout de rotas
+- [x] Layout de rotas
 - [ ] Header & Layout
 - [ ] Página: Home
 - [ ] Finalização da Home
