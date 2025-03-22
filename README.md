@@ -11,12 +11,12 @@
 - [x] React Router DOM
 - [x] Layout de rotas
 - [x] Header & Layout
-- [ ] Página: Home
-- [ ] Finalização da Home
-- [ ] Aprimorando os inputs
-- [ ] Página: History
-- [ ] Componente: Status
-- [ ] Controlled vs Uncontrolled
+- [x] Página: Home
+- [x] Finalização da Home
+- [x] Aprimorando os inputs
+- [x] Página: History
+- [x] Componente: Status
+- [x] Controlled vs Uncontrolled
 - [ ] React Hook Form
 - [ ] Validando formulários
 - [ ] TypeScript no formulário
