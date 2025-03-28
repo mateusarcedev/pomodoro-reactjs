@@ -83,7 +83,7 @@ display: flex;
 justify-content: center;
 `
 
-export const StartCountdownButton = styled.main`
+export const StartCountdownButton = styled.button`
 width: 100%;
 border: 0;
 padding: 1rem;

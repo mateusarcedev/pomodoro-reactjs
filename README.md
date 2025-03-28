@@ -17,13 +17,13 @@
 - [x] Página: History
 - [x] Componente: Status
 - [x] Controlled vs Uncontrolled
-- [ ] React Hook Form
-- [ ] Validando formulários
-- [ ] TypeScript no formulário
-- [ ] Resetando formulário
-- [ ] Iniciando novo ciclo
-- [ ] Criando countdown
-- [ ] O hook useEffect
+- [x] React Hook Form
+- [x] Validando formulários
+- [x] TypeScript no formulário
+- [x] Resetando formulário
+- [x] Iniciando novo ciclo
+- [x] Criando countdown
+- [x] O hook useEffect
 - [ ] Reduzindo countdown
 - [ ] Mudando title da página
 - [ ] Interromper ciclo
