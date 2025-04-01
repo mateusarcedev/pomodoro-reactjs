@@ -24,15 +24,15 @@
 - [x] Iniciando novo ciclo
 - [x] Criando countdown
 - [x] O hook useEffect
-- [ ] Reduzindo countdown
-- [ ] Mudando title da página
-- [ ] Interromper ciclo
-- [ ] Ciclo completo
-- [ ] Separando componentes
-- [ ] Prop Drilling no React
-- [ ] Entendendo contextos
-- [ ] Convertendo para contexto
-- [ ] Contexto no formulário
+- [x] Reduzindo countdown
+- [x] Mudando title da página
+- [x] Interromper ciclo
+- [x] Ciclo completo
+- [x] Separando componentes
+- [x] Prop Drilling no React
+- [x] Entendendo contextos
+- [x] Convertendo para contexto
+- [x] Contexto no formulário
 - [ ] Contexto entre rotas
 - [ ] Reset do formulário
 - [ ] Listagem do histórico
